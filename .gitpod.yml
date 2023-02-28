@@ -12,6 +12,6 @@ ports:
   - name: juice-shop
     description: The web app juice-shop
     port: 3000
-    visibility: private
+    visibility: public
     onOpen: open-preview
 
